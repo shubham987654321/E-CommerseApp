@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/E-CommerseApp/static/css/main.faf44075.chunk.css",
+    "main.js": "/E-CommerseApp/static/js/main.bd6f70f8.chunk.js",
+    "main.js.map": "/E-CommerseApp/static/js/main.bd6f70f8.chunk.js.map",
+    "runtime-main.js": "/E-CommerseApp/static/js/runtime-main.93b028ad.js",
+    "runtime-main.js.map": "/E-CommerseApp/static/js/runtime-main.93b028ad.js.map",
+    "static/css/2.19a1d5ae.chunk.css": "/E-CommerseApp/static/css/2.19a1d5ae.chunk.css",
+    "static/js/2.14f1040a.chunk.js": "/E-CommerseApp/static/js/2.14f1040a.chunk.js",
+    "static/js/2.14f1040a.chunk.js.map": "/E-CommerseApp/static/js/2.14f1040a.chunk.js.map",
+    "index.html": "/E-CommerseApp/index.html",
+    "static/css/2.19a1d5ae.chunk.css.map": "/E-CommerseApp/static/css/2.19a1d5ae.chunk.css.map",
+    "static/css/main.faf44075.chunk.css.map": "/E-CommerseApp/static/css/main.faf44075.chunk.css.map",
+    "static/js/2.14f1040a.chunk.js.LICENSE.txt": "/E-CommerseApp/static/js/2.14f1040a.chunk.js.LICENSE.txt",
+    "static/media/1.a5f50931.jpg": "/E-CommerseApp/static/media/1.a5f50931.jpg",
+    "static/media/2.90ffa6b5.jpg": "/E-CommerseApp/static/media/2.90ffa6b5.jpg",
+    "static/media/3.33171b12.jpg": "/E-CommerseApp/static/media/3.33171b12.jpg",
+    "static/media/4.fa706575.jpg": "/E-CommerseApp/static/media/4.fa706575.jpg",
+    "static/media/5.9695d897.jpg": "/E-CommerseApp/static/media/5.9695d897.jpg",
+    "static/media/6.4e57aea2.jpg": "/E-CommerseApp/static/media/6.4e57aea2.jpg",
+    "static/media/7.10b622bf.jpg": "/E-CommerseApp/static/media/7.10b622bf.jpg",
+    "static/media/8.511ef68f.jpg": "/E-CommerseApp/static/media/8.511ef68f.jpg",
+    "static/media/App.css": "/E-CommerseApp/static/media/intro-bg_1.da315e75.jpg",
+    "static/media/watch1.487114db.jpg": "/E-CommerseApp/static/media/watch1.487114db.jpg",
+    "static/media/watch2.944df08f.jpg": "/E-CommerseApp/static/media/watch2.944df08f.jpg",
+    "static/media/watch3.d0b762fa.jpg": "/E-CommerseApp/static/media/watch3.d0b762fa.jpg",
+    "static/media/watch4.b3d99237.jpg": "/E-CommerseApp/static/media/watch4.b3d99237.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b028ad.js",
+    "static/css/2.19a1d5ae.chunk.css",
+    "static/js/2.14f1040a.chunk.js",
+    "static/css/main.faf44075.chunk.css",
+    "static/js/main.bd6f70f8.chunk.js"
+  ]
+}
